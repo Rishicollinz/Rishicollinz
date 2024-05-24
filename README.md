@@ -4,7 +4,7 @@ I am Rishikesh, a recent computer science graduate from [K Ramakrishnan College 
 
 [![Linkedin Badge](https://img.shields.io/badge/-rishikeshb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishicollinz/)](https://www.linkedin.com/in/rishicollinz/)
 [![Instagram Badge](https://img.shields.io/badge/-rishi_collinz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rishi_collinz/)](https://instagram.com/rishi_collinz)
-[![Personal Website](https://img.shields.io/badge/rishicollinz.me?style=for-the-badge&logo=Firefox-Browser&logoColor=white&link=https://rishicollinz.me)](https://rishicollinz.me)
+[![Personal Website](https://img.shields.io/badge/rishicollinz.me-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&link=https://rishicollinz.me)](https://rishicollinz.me)
 [![Gmail Badge](https://img.shields.io/badge/-rishikesh2511990@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishikesh2511990@gmail.com)](mailto:rishikesh2511990@gmail.com)
 
 ## ⚡ Technologies
