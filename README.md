@@ -24,4 +24,4 @@ I am Rishikesh, a recent computer science graduate from [K Ramakrishnan College 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rishicollinz&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rishicollinz.rishicollinz)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rishicollinz.Rishicollinz)
