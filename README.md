@@ -22,6 +22,6 @@ I am Rishikesh, a recent computer science graduate from [K Ramakrishnan College 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rishicollinz&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Rishicollinz&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rishicollinz.Rishicollinz)
