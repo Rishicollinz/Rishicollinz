@@ -2,11 +2,9 @@
 
 I am Rishikesh, a recent computer science graduate from [K Ramakrishnan College of Technology](https://krct.ac.in/). I am a tech enthusiast. I would love to learn anything interesting about technology. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-rishikeshb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishicollinz/)](https://www.linkedin.com/in/rishicollinz/)
 [![Linkedin Badge](https://img.shields.io/badge/rishikeshb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rishicollinz/)](https://www.linkedin.com/in/rishicollinz/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/rishi_collinz/)](https://instagram.com/rishi_collinz)
 [![Personal Website](https://img.shields.io/badge/rishicollinz.me-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&link=https://rishicollinz.me)](https://rishicollinz.me)
-[![Gmail Badge](https://img.shields.io/badge/-rishikesh2511990@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishikesh2511990@gmail.com)](mailto:rishikesh2511990@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/rishikesh2511990@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rishikesh2511990@gmail.com)](mailto:rishikesh2511990@gmail.com)
 
 ## ⚡ Technologies
