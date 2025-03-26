@@ -26,7 +26,7 @@ I am Rishikesh, a recent computer science graduate from [K Ramakrishnan College 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rishicollinz&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rishicollinz&layout=compact&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Rishicollinz&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishicollinz&layout=compact&theme=tokyonight)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rishicollinz.Rishicollinz)
