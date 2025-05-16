@@ -25,6 +25,11 @@ I am Rishikesh, a recent computer science graduate from [K Ramakrishnan College 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+RmFzdEFQSTwvdGl0bGU+PHBhdGggZD0iTTEyIC4wMzhDNS4zNzI5LjAzODQgMCA1LjM5MzEgMCAxMS45OTg4Yy0uMDAxIDYuNjA2NiA1LjM3MiAxMS45NjI4IDEyIDExLjk2MjVzMTItNS4zNTU5IDEyLTExLjkyNjUtNS4zNzI5LTExLjk2MDQtMTItMTEuOTZtLS44MjkgNS40MTUzaDcuNTVsLTcuNTgwNSA1LjMyODRoNS4xODI4TDUuMjc5IDE4LjU0MzZxMi45NDY2LTYuNTQ0NCA1Ljg5Mi0xMy4wODk2Ii8+PC9zdmc+)
+![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SqlAlchemy](https://img.shields.io/badge/Sqlalchemy-%23D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![SqlModel](https://img.shields.io/badge/SQLModel-%237E57C2?style=for-the-badge)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Rishicollinz&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishicollinz&layout=compact&theme=tokyonight)
